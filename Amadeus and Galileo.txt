@@ -1,0 +1,35 @@
+Amadeus and Galileo commands
+
+15 January, 2026
+11:51 AM
+
+Pricing in different currency
+
+Amadeus : FXR/R,FC-USD
+Galileo    : FQBB:USD
+
+=================================================================
+
+Baggage Pricing 
+
+Amadeus : FXR/SBF 
+Galileo    : FQBB*SBF
+
+=================================================================
+Price for different Pax
+
+Amadeus : FXX/RADT*CH*INF*YCD
+Galileo    : FSHYD12JANDEL+P1.2*C10.3*INF
+
+=================================================================
+
+To Check Pricing for reissue after ticketed
+
+ - FQPHYD/D02MAR25/AAI/CIDEL/R,UP,DATE OF BOOKING
+
+To Check fare rules after ticketed
+
+ - FQDHYDDEL/D03AUG25/AAI/CI/R,DATE OF BOOKING
+ - MD-FARE BASIS
+
+=================================================================
