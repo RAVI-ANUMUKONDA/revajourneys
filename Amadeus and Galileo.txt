@@ -33,3 +33,7 @@ To Check fare rules after ticketed
  - MD-FARE BASIS
 
 =================================================================
+
+To Check void is possible or not
+
+Amadeus : HE ETT XX (XX - AIRLINES CODE)
