@@ -37,3 +37,9 @@ To Check fare rules after ticketed
 To Check void is possible or not
 
 Amadeus : HE ETT XX (XX - AIRLINES CODE)
+
+=================================================================
+
+To check refundable fare
+
+Amadeus : FXX/R,*RF
