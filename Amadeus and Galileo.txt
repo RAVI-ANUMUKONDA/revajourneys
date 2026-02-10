@@ -42,5 +42,5 @@ Amadeus : HE ETT XX (XX - AIRLINES CODE)
 
 To check refundable fare
 
-Galileo : FQBB/PE50
+Galileo : FQBB/PE50 or FQACAI(C is carrier ,AI is AIRLINES )
 Amadeus : FXX/R,*RF
