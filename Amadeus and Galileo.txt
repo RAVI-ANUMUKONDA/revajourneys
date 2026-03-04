@@ -54,3 +54,6 @@ Amadeus : RPP/RLC-PNR (PNR Means GDS PNR)
 
 Galileo : PQ/R-PNR (PNR Means GDS PNR)
           PQ/R-PNR/*CONFIRM
+             wait-time 24hrs
+          QCA (GENERAL)
+          Q/1*CPD
