@@ -51,6 +51,7 @@ To check Purg PNR history
 
 Amadeus : RPP/RLC-PNR (PNR Means GDS PNR)
           RLDT1  (Here 1 is line number)
+          RPP/RHI
 
 Galileo : PQ/R-PNR (PNR Means GDS PNR)
           PQ/R-PNR/*CONFIRM
