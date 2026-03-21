@@ -7,7 +7,7 @@ Pricing in different currency
 
 Amadeus : FXR/R,FC-USD
 Galileo    : FQBB:USD
-
+   
 =================================================================
 
 Baggage Pricing 
@@ -58,3 +58,9 @@ Galileo : PQ/R-PNR (PNR Means GDS PNR and wait for 24hrs to open the PNR)
              wait-time 24hrs
           QCA (GENERAL)
           Q/1*CPD
+
+=================================================================
+
+To Check map of country and city
+
+Galileo : c*map/india
