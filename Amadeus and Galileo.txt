@@ -64,3 +64,12 @@ Galileo : PQ/R-PNR (PNR Means GDS PNR and wait for 24hrs to open the PNR)
 To Check map of country and city
 
 Galileo : c*map/india
+
+=================================================================
+
+To check different cabin fare'SBF
+
+Amadeus : FXY/KM (KM- ECONOMY, KC - BUSINESS, KW - Premium)
+Galileo : FQBBCAIRLINES NAME*:BF1  (Here numeric one is dynamic 1-10)
+                   or        
+          FQBBCAIRLINES NAME*:BF1 (Here numeric one is dynamic 1-10)
