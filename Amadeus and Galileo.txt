@@ -67,9 +67,9 @@ Galileo : c*map/india
 
 =================================================================
 
-To check different cabin fare'SBF
+To check different cabin fares
 
 Amadeus : FXY/KM (KM- ECONOMY, KC - BUSINESS, KW - Premium)
 Galileo : FQBBCAIRLINES NAME*:BF1  (Here numeric one is dynamic 1-10)
                    or        
-          FQBBCAIRLINES NAME*:BF1 (Here numeric one is dynamic 1-10)
+          FQBBAIRLINES NAME*:BF1 (Here numeric one is dynamic 1-10)
