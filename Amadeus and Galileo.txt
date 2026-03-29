@@ -1,7 +1,5 @@
 Amadeus and Galileo commands
 
-15 January, 2026
-11:51 AM
 
 Pricing in different currency
 
@@ -73,3 +71,10 @@ Amadeus : FXY/KM (KM- ECONOMY, KC - BUSINESS, KW - Premium)
 Galileo : FQBBCAIRLINES NAME*:BF1  (Here numeric one is dynamic 1-10)
                    or        
           FQBBAIRLINES NAME*:BF1 (Here numeric one is dynamic 1-10)
+
+==================================================================
+
+To Check seat map for the segments
+
+Amadeus : SM1 (1 is segment line number)
+Galileo : SA*S1 (1 is segment line number)
