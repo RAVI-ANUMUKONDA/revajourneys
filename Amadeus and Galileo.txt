@@ -23,9 +23,13 @@ Galileo    : FSHYD12JANDEL+P1.2*C10.3*INF
 
 To Check Pricing for reissue after ticketed
 
- - FQPHYD/D02MAR25/AAI/CIDEL/R,UP,DATE OF BOOKING
+(C,D,A,C -  DEPARTURE CITY , DEPARTURE DATE, AIRLINES, ARRIVAL CITY)
+(-/ Means stopover)
+(--/ Means Surface)
+ - FQPMAA/D28MAR26/AAI/CYDEL/D29MAR26/AAI/CYFCO-/D6APR26/AAI/CWDEL/D7APR26/AAI/C   
+WMAA/R,UP,DATE OF BOOKING
 
-To Check fare rules after ticketed
+To Check fare rules after ticketed  
 
  - FQDHYDDEL/D03AUG25/AAI/CI/R,DATE OF BOOKING
  - MD-FARE BASIS
