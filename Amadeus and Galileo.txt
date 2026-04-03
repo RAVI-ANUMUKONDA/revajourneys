@@ -34,7 +34,7 @@ To Check fare rules after ticketed
  - FQDHYDDEL/D03AUG25/AAI/CI/R,DATE OF BOOKING
  - MD-FARE BASIS
                or
- - FXX/R,DATE OF BOOKING/FF-ECOCLAS (replace ECOCLAS with actual book with class )
+ - FXX/R,DATE OF BOOKING,P/FF-ECOCLAS (replace ECOCLAS with actual book with class )
 
 =================================================================
 
