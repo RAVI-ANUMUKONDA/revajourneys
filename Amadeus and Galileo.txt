@@ -11,6 +11,7 @@ Galileo    : FQBB:USD
 Baggage Pricing 
 
 Amadeus : FXR/SBF 
+Amadeus : FXP , FXK/I-BGI
 Galileo    : FQBB*SBF
 
 =================================================================
