@@ -14,6 +14,12 @@ Amadeus : FXR/SBF
 Amadeus : FXP , FXK/I-BGI
 Galileo    : FQBB*SBF
 
+==================================================================
+
+SRDOCS for Excess wait
+
+Amadeus : SR XWGT-KG15/P1/S1
+
 =================================================================
 Price for different Pax
 
